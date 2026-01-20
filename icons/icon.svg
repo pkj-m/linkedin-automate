@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <rect width="128" height="128" rx="20" fill="#0a66c2"/>
+  <g fill="white">
+    <!-- Person icon left -->
+    <circle cx="40" cy="45" r="12"/>
+    <path d="M25 85 Q25 65 40 65 Q55 65 55 85"/>
+    <!-- Person icon right -->
+    <circle cx="88" cy="45" r="12"/>
+    <path d="M73 85 Q73 65 88 65 Q103 65 103 85"/>
+    <!-- Connection arrow -->
+    <rect x="52" y="52" width="24" height="6" rx="3"/>
+    <polygon points="72,46 82,55 72,64"/>
+  </g>
+</svg>
