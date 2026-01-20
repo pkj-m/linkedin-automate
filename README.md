@@ -2,6 +2,9 @@
 
 A Chrome extension to automate LinkedIn connection requests from a list of profile URLs with personalized messages.
 
+<img width="392" height="595" alt="image" src="https://github.com/user-attachments/assets/9c7f67fe-cd1f-443d-9d6b-eaa4cab41870" />
+
+
 ## Features
 
 - Read LinkedIn profile URLs from a Google Sheet
